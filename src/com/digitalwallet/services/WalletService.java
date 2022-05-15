@@ -11,7 +11,6 @@ import com.digitalwallet.entity.Wallet;
 import com.digitalwallet.utility.Constants;
 
 /**
- * @author ravi.prakash1
  * @purpose handles all wallet services
  */
 public class WalletService {
