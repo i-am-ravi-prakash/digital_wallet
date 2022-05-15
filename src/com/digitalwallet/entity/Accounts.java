@@ -10,7 +10,6 @@ import java.util.TreeSet;
 import com.digitalwallet.utility.AccountGenerator;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class Accounts {
