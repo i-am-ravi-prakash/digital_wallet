@@ -4,7 +4,6 @@
 package com.digitalwallet.utility;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class AccountGenerator {
