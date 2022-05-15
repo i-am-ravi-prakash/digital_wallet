@@ -6,7 +6,6 @@ package com.digitalwallet.utility;
 import java.math.BigDecimal;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class Constants {
