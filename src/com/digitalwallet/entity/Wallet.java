@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class Wallet {
