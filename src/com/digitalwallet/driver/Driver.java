@@ -9,7 +9,6 @@ import java.util.Scanner;
 import com.digitalwallet.services.WalletService;
 
 /**
- * @author ravi.prakash1
  * @purpose: main driver class for the wallet
  *
  */
