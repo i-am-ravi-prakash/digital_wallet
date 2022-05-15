@@ -7,7 +7,6 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class Transaction {
