@@ -6,7 +6,6 @@ package com.digitalwallet.entity;
 import java.util.UUID;
 
 /**
- * @author ravi.prakash1
  *
  */
 public class Users {
