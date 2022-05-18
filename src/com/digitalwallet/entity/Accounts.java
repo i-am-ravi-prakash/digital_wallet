@@ -25,6 +25,11 @@ public class Accounts {
 		this.transaction = new TreeSet<>((a, b) -> a.getTransferDate().compareTo(b.getTransferDate()));
 	}
 	
+	@Override
+	public String toString() {
+		return "Account: " + accountNumer + ", Name: " +  this.users.getUserName() + ", Balance: " + walletBalance + "Transactions: " + transaction;
+	}
+	
 	public Users getUsers() {
 		return users;
 	}
