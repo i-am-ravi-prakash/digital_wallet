@@ -22,6 +22,11 @@ public class Transaction {
 		this.transferDate = _transferDate;
 	}
 	
+	@Override
+	public String toString() {
+		return "Transactions: " + "From: " + fromAccountNumber + ", To: " + toAccountNumber + ", Amount: " + transferAmount + ", Date: " + transferDate;
+	}
+	
 	public long getFromAcountNumber() {
 		return fromAccountNumber;
 	}
